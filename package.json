@@ -71,6 +71,9 @@
     },
     "sqlite3": {
       "optional": true
+    },
+    "node-opengauss": {
+      "optional": true
     }
   },
   "lint-staged": {
